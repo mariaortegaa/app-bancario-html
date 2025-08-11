@@ -21,4 +21,29 @@
       
     </section>
 
+
+
+
+
+parte dois..
+
+
+<section class="funcoes">
+    <p class="contato">entre em contato</p>
+    <div class="botoes">
+      <button class="btn">Saldo</button>
+      <button class="btn">Cartão</button>
+      <button class="btn">Investimento</button>
+      <button class="btn">Crédito</button>
+    </div>
+  </section>
+
+  <footer class="rodape">
+    <button>rec conta</button>
+    <button>pix</button>
+    <button>segurança</button>
+  </footer>
+</div>
+</body>
+</html>
   
